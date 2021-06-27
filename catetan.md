@@ -52,7 +52,8 @@ Materinya overall biasa, sih, kita udh tau semua. Tinggal demo ae.
 
 
 
-
+## Day 2
+- Using express generator, semacem blueprinting flask otomatis dari node gitu, enak bgt.
 
 
 
